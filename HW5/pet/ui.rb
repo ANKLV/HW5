@@ -4,7 +4,7 @@ require_relative 'pet'
 require_relative 'panda'
 require_relative 'tiger'
 require_relative '../users/session'
-require 'pet_html'
+require 'gem_html'
 
 class Ui
   def start
